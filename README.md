@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Brandon(@Bborde1).  My background is in engineering (biomedical and mechanical), data analysis, and healthcare.
-- 👀 I am interested in using data science and engineering to solve interesting problems that are becoming more visible to us as we evolve to a more interconnected world.
-- 🌱 I’m currently learning machine learning, deep learning, graph databases, and better sdlc practices.  Anything that can make me a more agile, full stack scientist and engineer.
+- 👋 Hi, I’m PhDr. B.  My background is in engineering (biomedical and mechanical), data analysis, and healthcare.
+- 👀 I am interested in using data science, engineering, and more recently web3, to solve interesting problems that are becoming more visible to us as we evolve to a more interconnected world.
+- 🌱 I’m experienced in Python, and currently learning solidity, swift, as well as always better sdlc practices.  Anything that can make me a more agile, full stack scientist and engineer.
 - 💞️ I’m looking to collaborate on anything fun, with the potential to learn new things, especially healthcare related.
 - 📫 How to reach me on here.
 
