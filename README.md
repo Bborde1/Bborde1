@@ -1,7 +1,7 @@
-# About Me
-- 👋 Hi, my name is Brandon, welcome to my GitHub.  My background is in engineering (masters and PhD in biomedical and bachelors in mechanical) and healthcare.
-- 🌱 I’m most experienced in Python and SQL, but am avidly building on that knowledge to fill out a more full stack profile.  That includes HTML, Javascript, and solidity for new paradigms.  Anything that can make me a more agile individual, full stack developer, and engineer.
-- 📫 Ping me on LinkedIn, link is in my profile.
+# Welcome to my Github
+- 👋 Hi, my name is Brandon.  I'm an engineer with experience in pharma marketing strategy and clinical trial software.
+- 🌱 I’m most experienced in Python and SQL, but am learning more web3 to bring blockchain to healthcare and to keep up with a rapidly evolving world.
+- 📫 Ping me:
 
 ### Languages:
 <div>
