@@ -1,6 +1,6 @@
 # Welcome to my Github
 - 👋 Hi, my name is Brandon.  I'm an engineer with experience in pharma marketing strategy and clinical trial software.
-- 🌱 I’m most experienced in Python and SQL, but am learning more web3 to bring blockchain to healthcare and to keep up with a rapidly evolving world.
+- 🌱 I’m most experienced in Python and SQL, but am rapidly learning more about web3.
 - 📫 Ping me:
 
 ### Languages:
