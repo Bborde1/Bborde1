@@ -1,8 +1,6 @@
-# Welcome to my Github
-- 👋 Hi, my name is Brandon.  I'm an engineer with experience in biotech, pharma, and clinical trial software.
-- 🌱 I’m most experienced in Python and SQL, but am rapidly learning more about web3 and expanding my skillset to include solidity.
-- Currently pursuing a career change to data and blockchain engineering.
-- 📫 Ping me on LinkedIn: https://www.linkedin.com/in/brandonborde/
+# Build the world you want to see
+- 👋 Brandon here, I'm an engineer and clinical specialist coming from pharma.
+- 🌱 Trying to learn as much as I can and build as much as I can.
 
 ### Languages:
 <div>
